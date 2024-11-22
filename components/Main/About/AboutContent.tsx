@@ -43,7 +43,7 @@ const AboutContent = () => {
                       alt={skill}
                       width={80}
                       height={80}
-                      className="m-auto block"
+                      className="m-auto block" //eto e
                     />
                   </div>
 
